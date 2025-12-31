@@ -275,8 +275,7 @@ export default function BillingPage() {
       // Address
       doc.setFontSize(9);
       doc.text('Opp. Sorathiya Hall, Mavdi, Rajkot - 360005', margin, 36);
-      doc.text('Phone: +91 8200809405', margin, 41);
-      doc.text('Instagram: @patidar_auto_mavdi | YouTube: Patidar Auto', margin, 46);
+      doc.text('Phone: +91 8200809405 | Instagram: @patidar_auto_mavdi | YouTube: Patidar Auto', margin, 41);
       
       // Header Line
       doc.setDrawColor(59, 130, 246);
